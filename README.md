@@ -1,2 +1,2 @@
 # web-scraping
-simple web scraping program
+simple web scraping program using beautifulsoup 
